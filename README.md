@@ -11,4 +11,5 @@ Bienvenue sur mon portfolio ! Ce projet présente mon parcours et mes compétenc
 * HTML5 / CSS3
 
 ## 🔗 Lien direct
-*Une fois déployé, vous pourrez voir le site ici :* [Lien vers GitHub Pages]
+*Une fois déployé, vous pourrez voir le site ici :*https://mahandry97fs-dev.github.io/portfolio/
+
